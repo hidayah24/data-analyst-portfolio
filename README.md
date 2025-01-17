@@ -4,7 +4,7 @@ Welcome to my Data Analysis Portfolio! This repository showcases various data an
 
 ## 📂 Projects
 
-1. **[Data Analyst Salary in Indonesia](./Project-1-Data-Analyst-Salary/)**  
+1. **[Customer Spending Behavior Analysis](./Project-1-Customer-Spending-Behavior-Analysis/)**  
    - Tools: Python (Pandas, Matplotlib, Seaborn)  
    - Description: ...
 
