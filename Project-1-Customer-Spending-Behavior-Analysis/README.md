@@ -8,5 +8,3 @@ How does customer spending behavior differ in each category, and which categorie
 2. Frequently purchased products
 3. Average amount spent 
 4. How items or categories relate to locations or payment methods
-5. Highest Spending Categories
-6. Category with the Highest Number of Transactions
