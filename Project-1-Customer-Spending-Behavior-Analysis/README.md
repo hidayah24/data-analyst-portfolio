@@ -28,4 +28,28 @@ How does customer spending behavior differ in each category, and which categorie
    - Ensure Relevance and Purpose of Data
    - Import the data
 2. **Data Preprocessing**
-   - ...
+   - Search for Missing Value
+   - Search for Duplicate Value
+   - Search and handle Outliers
+3. **Explolatory Data Analysis (EDA)**
+   - Purchase Frequency
+   - Frequently purchased products
+   - Amount spent
+   - Look for patterns related to Payment Method and Location
+   - Proportion of Payment Method and Location
+   - Trend Analysis
+   - Comparison between cash and non-cash; In-store and Off-store
+   - Comparison between Payment Methods and Locations
+4. **Statistical Relationship Testing**
+   - Price Per Unit and Quantity
+   - Payment Method and Location
+
+## Results and Conclusions
+- ...
+
+## Visualization Screenshots
+
+## Related Files
+- `spending_patterns_detailed.csv`: Dataset used.
+- `Customer Spending Behavior Analysis.ipynb`: Notebook with analysis code.
+- `Spending Dashboards.pdf`: Results from Creating a Dashboard.
