@@ -33,6 +33,7 @@ How does customer spending behavior differ in each category, and which categorie
 3. **Explolatory Data Analysis (EDA)**
    - Purchase Frequency
    - Frequently purchased products
+   - Segmentation Costumers
    - Amount spent
    - Look for patterns related to Payment Method and Location
    - Proportion of Payment Method and Location
@@ -45,8 +46,9 @@ How does customer spending behavior differ in each category, and which categorie
 
 ## Results and Conclusions
 - Revenue from 2023 to 2024 remained stable, with no significant increase or decrease. In 2023, revenue was "$12.7M" with total sales of **"10.9k"** items, while in 2024, revenue was **"$12.5M"** with total sales of **"11.1k"** items.
-- The **"Food"** and **"Groceries"** categories had high purchase volumes, indicating that food and daily necessities were the most frequently bought items.
-- The **"Gifts"** and **"Shopping"** categories also had substantial purchase volumes, likely due to the wide variety of items available in these categories.
+- **"Lifestyle & Health Consumer"** dominant, This shows consumption trends that focus on healthy lifestyles, personal hygiene and shopping for personal necessities. It would be better to offer discounts or membership packages to attract customers who frequently shop in this segment
+- **"Entertainment Consumer"** second most, this could indicate that customers prefer experiences over physical products, such as recreation and entertainment. You can target customers with promotions for concert events, holiday packages or group entertainment. Or Using experience-based marketing strategies (experience marketing).
+- **"Other segments have smaller numbers"**, If you want to increase this segment. For example, to increase Basic Needs Customers, you can offer special discounts or bundling food products and daily necessities.
 - The **"Subscriptions"** and **"Transportation"** categories had lower purchase volumes compared to others, but they still reflected consistent consumer demand.
 - **"Price Per Unit"** did not have a significant impact on Sales Quantity.
 - **"In-Store"**: Focus on promotions and enhancing the convenience of Digital Wallet payments.
@@ -55,6 +57,7 @@ How does customer spending behavior differ in each category, and which categorie
 
 
 ## Visualization Screenshots
+![Customer Segmentation by Category](Customer_Segmentation_Based_on_Purchasing_Category.png)
 
 ## Related Files
 - `spending_patterns_detailed.csv`: Dataset used.
