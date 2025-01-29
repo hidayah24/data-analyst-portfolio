@@ -51,7 +51,7 @@ How does customer spending behavior differ in each category, and which categorie
 - **"Other segments have smaller numbers"**, If you want to increase this segment. For example, to increase Basic Needs Customers, you can offer special discounts or bundling food products and daily necessities.
 - The **"Subscriptions"** and **"Transportation"** categories had lower purchase volumes compared to others, but they still reflected consistent consumer demand.
 - **"Q1"** in 2023 and 2024, experiences an increase which means that at the beginning of the year customers tend to shop more. However, **"Q2"** experienced a decline, indicating a pattern of decreasing spending after the first quarter. So, you have to create a strategy for **"Q2"** and beyond.
-- **"Price Per Unit"** did not have a significant impact on Sales Quantity.
+- **"Price Per Unit"** According to statistical testing, did not have a significant impact on Sales Quantity.
 - **"In-Store"**: Focus on promotions and enhancing the convenience of Digital Wallet payments.
 - **"Online"**: Strengthen payment options, particularly for Cash transactions.
 - **"Mobile App"**: Maintain a flexible approach due to the balanced distribution of payment method preferences.
