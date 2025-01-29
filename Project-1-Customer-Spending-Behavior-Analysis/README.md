@@ -37,7 +37,7 @@ How does customer spending behavior differ in each category, and which categorie
    - Amount spent
    - Look for patterns related to Payment Method and Location
    - Proportion of Payment Method and Location
-   - Trend Analysis
+   - Time Trends
    - Comparison between cash and non-cash; In-store and Off-store
    - Comparison between Payment Methods and Locations
 4. **Statistical Relationship Testing**
