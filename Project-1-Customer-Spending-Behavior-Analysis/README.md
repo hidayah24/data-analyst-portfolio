@@ -50,6 +50,7 @@ How does customer spending behavior differ in each category, and which categorie
 - **"Entertainment Consumer"** second most, this could indicate that customers prefer experiences over physical products, such as recreation and entertainment. You can target customers with promotions for concert events, holiday packages or group entertainment. Or Using experience-based marketing strategies (experience marketing).
 - **"Other segments have smaller numbers"**, If you want to increase this segment. For example, to increase Basic Needs Customers, you can offer special discounts or bundling food products and daily necessities.
 - The **"Subscriptions"** and **"Transportation"** categories had lower purchase volumes compared to others, but they still reflected consistent consumer demand.
+- **"Q1"** in 2023 and 2024, experiences an increase which means that at the beginning of the year customers tend to shop more. However, **"Q2"** experienced a decline, indicating a pattern of decreasing spending after the first quarter. So, you have to create a strategy for **"Q2"** and beyond.
 - **"Price Per Unit"** did not have a significant impact on Sales Quantity.
 - **"In-Store"**: Focus on promotions and enhancing the convenience of Digital Wallet payments.
 - **"Online"**: Strengthen payment options, particularly for Cash transactions.
@@ -58,6 +59,7 @@ How does customer spending behavior differ in each category, and which categorie
 
 ## Visualization Screenshots
 ![Customer Segmentation by Category](Customer_Segmentation_Based_on_Purchasing_Category.png)
+![Time Trends per Quartal](Trend_Revenue_Quartal.png)
 
 ## Related Files
 - `spending_patterns_detailed.csv`: Dataset used.
