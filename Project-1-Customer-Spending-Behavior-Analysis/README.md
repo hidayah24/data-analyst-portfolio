@@ -58,11 +58,11 @@ How does customer spending behavior differ in each category, and which categorie
 
 ## Dashboard Overview
 Below is a snapshot of the dashboard used in this analysis:
-![Dashboard Overview Page 1](Spending Dashboards_pages-1.jpg)
-![Dashboard Overview Page 2](Spending Dashboards_pages-2.jpg)
-![Dashboard Overview Page 3](Spending Dashboards_pages-3.jpg)
+![Dashboard Overview Page 1](Spending_Dashboards_pages-1.jpg)
+![Dashboard Overview Page 2](Spending_Dashboards_pages-2.jpg)
+![Dashboard Overview Page 3](Spending_Dashboards_pages-3.jpg)
 For the full dashboard, please refer to:
-📄 [Spending_Dashboards.pdf](Spending_Dashboards.pdf)
+📄[Spending_Dashboards.pdf](Spending_Dashboards.pdf)
 
 ## Visualization Screenshots
 ![Customer Segmentation by Category](Customer_Segmentation_Based_on_Purchasing_Category.png)
