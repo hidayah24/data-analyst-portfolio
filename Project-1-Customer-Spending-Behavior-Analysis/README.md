@@ -58,15 +58,15 @@ How does customer spending behavior differ in each category, and which categorie
 
 ## Dashboard Overview
 Below is a snapshot of the dashboard used in this analysis:
-![Dashboard Overview Page 1](Spending_Dashboards_pages-1.jpg)
-![Dashboard Overview Page 2](Spending_Dashboards_pages-2.jpg)
-![Dashboard Overview Page 3](Spending_Dashboards_pages-3.jpg)
+![Dashboard Overview Page 1](charts/Spending_Dashboards_pages-1.jpg)
+![Dashboard Overview Page 2](charts/Spending_Dashboards_pages-2.jpg)
+![Dashboard Overview Page 3](charts/Spending_Dashboards_pages-3.jpg)
 For the full dashboard, please refer to:
 📄[Spending_Dashboards.pdf](Spending_Dashboards.pdf)
 
 ## Visualization Screenshots
-![Customer Segmentation by Category](Customer_Segmentation_Based_on_Purchasing_Category.png)
-![Time Trends per Quartal](Trend_Revenue_Quartal.png)
+![Customer Segmentation by Category](charts/Customer_Segmentation_Based_on_Purchasing_Category.png)
+![Time Trends per Quartal](charts/Trend_Revenue_Quartal.png)
 
 ## Related Files
 - `spending_patterns_detailed.csv`: Dataset used.
