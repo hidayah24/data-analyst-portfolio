@@ -46,11 +46,11 @@ How does customer spending behavior differ in each category, and which categorie
 
 ## Results and Conclusions
 - Revenue from 2023 to 2024 remained stable, with no significant increase or decrease. In 2023, revenue was "$12.7M" with total sales of **"10.9k"** items, while in 2024, revenue was **"$12.5M"** with total sales of **"11.1k"** items.
+- At the beginning of the year, customers tend to spend more on new needs, but in **"Q2"**, spending starts to decline, likely due to the effect of large expenditures at the start of the year. Therefore, promotional strategies in **"Q2"** need to focus on discounts or loyalty programs.
 - **"Lifestyle & Health Consumer"** dominant, This shows consumption trends that focus on healthy lifestyles, personal hygiene and shopping for personal necessities. It would be better to offer discounts or membership packages to attract customers who frequently shop in this segment
 - **"Entertainment Consumer"** second most, this could indicate that customers prefer experiences over physical products, such as recreation and entertainment. You can target customers with promotions for concert events, holiday packages or group entertainment. Or Using experience-based marketing strategies (experience marketing).
 - **"Other segments have smaller numbers"**, If you want to increase this segment. For example, to increase Basic Needs Customers, you can offer special discounts or bundling food products and daily necessities.
 - The **"Subscriptions"** and **"Transportation"** categories had lower purchase volumes compared to others, but they still reflected consistent consumer demand.
-- At the beginning of the year, customers tend to spend more on new needs, but in **"Q2"**, spending starts to decline, likely due to the effect of large expenditures at the start of the year. Therefore, promotional strategies in **"Q2"** need to focus on discounts or loyalty programs.
 - **"Price Per Unit"** According to statistical testing, did not have a significant impact on Sales Quantity.
 - **"In-Store"**: Focus on promotions and enhancing the convenience of Digital Wallet payments.
 - **"Online"**: Strengthen payment options, particularly for Cash transactions.
