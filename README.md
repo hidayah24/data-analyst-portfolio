@@ -5,10 +5,10 @@ Welcome to my Data Analysis Portfolio! This repository showcases various data an
 ## 📂 Projects
 
 1. **[Customer Spending Behavior Analysis](./Project-1-Customer-Spending-Behavior-Analysis/)**  
-   - Tools: Python (Pandas, Matplotlib, Seaborn)  
+   - Tools: Python (Pandas, Numpy, Matplotlib, Seaborn, Scipy), IBM Cognos Analytics 
    - Description: How does customer spending behavior differ in each category, and which categories are most dominant in terms of spending?
 
-2. **[Sales Dashboard with Power BI](./Project-2-Sales-Dashboard/)**  
+2. **[Credit Risk Analysis and Optimization of Lending Decisions](./Project-2-Credit-Risk-Analysis-and-Optimization-of-Lending-Decisions/)**  
    - Tools: ...
    - Description: ...
 
