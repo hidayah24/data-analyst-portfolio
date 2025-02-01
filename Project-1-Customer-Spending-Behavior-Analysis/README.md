@@ -65,6 +65,7 @@ For the full dashboard, please refer to:
 📄[Spending_Dashboards.pdf](Spending_Dashboards.pdf)
 
 ## Visualization Screenshots
+![Total Income 2023 vs 2024](charts/Total_Income_2023_and_2024.png)
 ![Customer Segmentation by Category](charts/Customer_Segmentation_Based_on_Purchasing_Category.png)
 ![Time Trends per Quartal](charts/Trend_Revenue_Quartal.png)
 
