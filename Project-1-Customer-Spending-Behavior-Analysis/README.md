@@ -58,18 +58,19 @@ How does customer spending behavior differ in each category, and which categorie
 
 ## Dashboard Overview
 Below is a snapshot of the dashboard used in this analysis:
-![Dashboard Overview Page 1](charts/Spending_Dashboards_pages-1.jpg)
-![Dashboard Overview Page 2](charts/Spending_Dashboards_pages-2.jpg)
-![Dashboard Overview Page 3](charts/Spending_Dashboards_pages-3.jpg)
+![Dashboard Overview Page 1](result/Spending_Dashboards_pages-1.jpg)
+![Dashboard Overview Page 2](result/Spending_Dashboards_pages-2.jpg)
+![Dashboard Overview Page 3](result/Spending_Dashboards_pages-3.jpg)
 For the full dashboard, please refer to:
-📄[Spending_Dashboards.pdf](Spending_Dashboards.pdf)
+📄[Spending_Dashboards.pdf](result/Spending_Dashboards.pdf)
 
 ## Visualization Screenshots
-![Total Income 2023 vs 2024](charts/Total_Income_2023_and_2024.png)
-![Customer Segmentation by Category](charts/Customer_Segmentation_Based_on_Purchasing_Category.png)
-![Time Trends per Quartal](charts/Trend_Revenue_Quartal.png)
+![Total Income 2023 vs 2024](result/Total_Income_2023_and_2024.png)
+![Customer Segmentation by Category](result/Customer_Segmentation_Based_on_Purchasing_Category.png)
+![Time Trends per Quartal](result/Trend_Revenue_Quartal.png)
 
 ## Related Files
 - `spending_patterns_detailed.csv`: Dataset used.
 - `Customer Spending Behavior Analysis.ipynb`: Notebook with analysis code.
 - `Spending Dashboards.pdf`: Results from Creating a Dashboard.
+- `Finding-Report(Customer-Spending-Behavior-Analysis).pdf`: The results of the data analysis are in finding report format
