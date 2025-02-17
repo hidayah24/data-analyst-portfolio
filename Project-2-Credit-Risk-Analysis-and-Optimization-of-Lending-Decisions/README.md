@@ -10,7 +10,6 @@ How to understand the patterns and characteristics of high-risk loans and optimi
 4. Credit History Age
 5. Credit Account Metrics
 6. Total Balance & Credit Limit
-7. Borrower Behavior
 
 
 ## Dataset
