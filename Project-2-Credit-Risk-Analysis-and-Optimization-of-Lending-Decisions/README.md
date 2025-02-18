@@ -4,12 +4,13 @@
 How to understand the patterns and characteristics of high-risk loans and optimize the credit assessment process to reduce financial losses.
 
 ## Objectives
-1. Delinquency & Default Risk
-2. Credit Utilization & Debt Burden
-3. Creditworthiness & Loan Terms
-4. Credit History Age
-5. Credit Account Metrics
-6. Total Balance & Credit Limit
+1. Proportion of Loan Status based on Risk Category
+2. Delinquency & Default Risk
+3. Credit Utilization & Debt Burden
+4. Creditworthiness & Loan Terms
+5. Credit History Age
+6. Credit Account Metrics
+7. Total Balance & Credit Limit
 
 
 ## Dataset
