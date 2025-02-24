@@ -14,6 +14,43 @@ How to understand the patterns and characteristics of high-risk loans and optimi
 
 
 ## Dataset
+- **File Name**: `loan_2019_20.csv`
+- **Source**: [Loan - Credit Risk & Population Stability](https://www.kaggle.com/datasets/beatafaron/loan-credit-risk-and-population-stability)
+- **Dataset Size**: 664824 rows, 142 columns
+- **Time Range Data Captured**: 2019 - 2020
+
+## Tools and Technology
+- Python: Pandas, Matplotlib, Seaborn, Numpy, Scipy and Sckit Posthocs
+- Jupyter Notebook
+
+## Methodology
+1. **Data Collecting**
+   - Understanding Data
+   - Feature Selection
+   - Filtering Feature
+2. **Data Preprocessing**
+   - Search for Missing Value
+   - Handling for Missing Value
+   - Search for Duplicate Value
+   - Handling for Duplicate Value
+3. **Explolatory Data Analysis (EDA)**
+   - Delinquency & Default Risk
+   - Credit Utilization & Debt Burden
+   - Creditworthiness & Loan Terms
+   - Credit History Age
+   - Credit Account Metrics
+   - Total Balance & Credit Limit
+4. **Statistical Relationship Testing**
+   - History of Delays
+   - Interest Rate
+   - Length of Credit History
+   - The Relationship Between The Number of Active Credit Accounts and The Risk of Default
+   - Total Balance and Credit Limit
+
+## Results and Conclusions
+-
+
+## Visualization Screenshots
 
 ## Repository Structure
 | File/Folder                  | Description                                              |
