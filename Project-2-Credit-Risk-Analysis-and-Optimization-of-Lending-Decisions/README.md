@@ -50,6 +50,10 @@ How to understand the patterns and characteristics of high-risk loans and optimi
 -
 
 ## Visualization Screenshots
+![Interest Rate](result/int_rate_boxplot.png)
+![Accounts Age](result/account_age.png)
+![Accounts Metrics](result/account_metrics.png)
+![Total Balance & Credit Limit](result/balance_and_credit.png)
 
 ## Repository Structure
 | File/Folder                  | Description                                              |
