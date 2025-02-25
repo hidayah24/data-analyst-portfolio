@@ -50,10 +50,10 @@ How to understand the patterns and characteristics of high-risk loans and optimi
 -
 
 ## Visualization Screenshots
-![Interest Rate](result/int_rate_boxplot.png)
-![Accounts Age](result/account_age.png)
-![Accounts Metrics](result/account_metrics.png)
-![Total Balance & Credit Limit](result/balance_and_credit.png)
+![Interest Rate](results/int_rate_boxplot.png)
+![Accounts Age](results/account_age.png)
+![Accounts Metrics](results/account_metrics.png)
+![Total Balance & Credit Limit](results/balance_and_credit.png)
 
 ## Repository Structure
 | File/Folder                  | Description                                              |
@@ -64,4 +64,6 @@ How to understand the patterns and characteristics of high-risk loans and optimi
 | `/Credit-Risk-Analysis.ipynb | Jupyter notebook files for analysis in python            |
 | `/datasets/                  | The folder containing the dataset used                   |
 | `/results/                   | Folder containing the results of the analysis            |
+| `/data_cleaned.pkl           | Dataframes stored in pickle files                        |
+| `/data_risk_category.pkl     | Dataframes stored in pickle files                        |
 | `/README.md`                 | Repository documentation file                            |
