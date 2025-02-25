@@ -41,7 +41,6 @@ How to understand the patterns and characteristics of high-risk loans and optimi
    - Credit Account Metrics
    - Total Balance & Credit Limit
 4. **Statistical Relationship Testing**
-   - History of Delays
    - Interest Rate
    - Length of Credit History
    - The Relationship Between The Number of Active Credit Accounts and The Risk of Default
