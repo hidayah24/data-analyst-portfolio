@@ -47,31 +47,31 @@ How to understand the patterns and characteristics of high-risk loans and optimi
    - Total Balance and Credit Limit
 
 ## Results and Conclusions
-**Key Findings**
+**"Key Findings"**
 
-1. **"High Interest Rates Increase Risk"**
+1. **High Interest Rates Increase Risk**
    The higher the loan interest rate, the greater the risk of default. Borrowers with interest rates above 20% fall into the high-risk category.
 
-2. **"Short Credit History = High Risk"**
+2. **Short Credit History = High Risk**
    Borrowers with a short credit history (e.g., the first credit account opened within the last 3 years) have a higher risk compared to experienced borrowers.
 
-3. **"Low Number of Accounts Indicates Vulnerability"**
+3. **Low Number of Accounts Indicates Vulnerability**
    Borrowers with a low number of accounts (mortgage, installment loans, or revolving accounts) tend to be high-risk. Examples include:
    - No mortgage accounts.
    - Fewer than 4 installment loans.
    - Fewer than 8 revolving accounts.
 
-4. **"Financial Profile of High-Risk Borrowers"**
+4. **Financial Profile of High-Risk Borrowers**
    High-risk borrowers generally have:
    - Low average balances.
    - Small credit limits (e.g., total bank card limits below 10,500 currency units or total revolving limits below 17,600 currency units).
 
-**Strategic Recommendations**
+**"Strategic Recommendations"**
 
-1. **"Interest Rate Policy"**
+1. **Interest Rate Policy**
    Cap loan interest rates at a maximum of 20% to reduce exposure to high-risk loans.
 
-2. **"Prioritize Experienced Borrowers"**
+2. **Prioritize Experienced Borrowers**
    Focus on borrowers with:
    - Long credit history (over 13 years for installment loans or 18 years for revolving credit).
    - Diversified credit portfolio:
@@ -79,14 +79,14 @@ How to understand the patterns and characteristics of high-risk loans and optimi
       b. More than 12 installment loans.
       c. More than 17 revolving accounts.
 
-3. **"Restrictions for High-Risk Borrowers"**
+3. **Restrictions for High-Risk Borrowers**
    Reject or limit borrowers with:
    - No mortgage accounts.
    - Fewer than 4 installment loans or fewer than 8 revolving accounts.
    - Small total credit limits (bank cards <10,500 or revolving <17,600).
    For new borrowers, implement additional collateral requirements or loan ceiling restrictions.
 
-4. **"Credit Allocation to Safe Profiles"**
+4. **Credit Allocation to Safe Profiles**
    Prioritize borrowers with:
    - Total bank card limits above 38,200 currency units.
    - Total revolving credit limits above 52,600 currency units.
