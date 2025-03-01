@@ -96,6 +96,10 @@ How to understand the patterns and characteristics of high-risk loans and optimi
 ![Accounts Age](results/account_age.png)
 ![Accounts Metrics](results/account_metrics.png)
 ![Total Balance & Credit Limit](results/balance_and_credit.png)
+![Distribution of Risk Category per Interest Rate Segment](results/distr_interest_rate_seg.png)
+![Proportion of Credit History Age](results/credit_history_age_proportion.png)
+![Proportion of Number of Accounts](results/number_of_accounts_prop.png)
+![Proportion of Total Balance and Credit](results/total_bal_and_cred_prop.png)
 
 ## Repository Structure
 | File/Folder                  | Description                                              |
