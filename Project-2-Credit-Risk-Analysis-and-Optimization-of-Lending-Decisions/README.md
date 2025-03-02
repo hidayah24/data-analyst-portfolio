@@ -45,7 +45,7 @@ How to understand the patterns and characteristics of high-risk loans and optimi
    - Length of Credit History
    - The Relationship Between The Number of Active Credit Accounts and The Risk of Default
    - Total Balance and Credit Limit
-4. **Optimizing the Credit Assessment Process**
+5. **Optimizing the Credit Assessment Process**
    - Optimizing Interest Rate
    - Optimizing Credit History Age
    - Optimizing Number of Accounts
