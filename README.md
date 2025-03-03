@@ -9,6 +9,10 @@ Welcome to my Data Analysis Portfolio! This repository showcases various data an
    - Description: How does customer spending behavior differ in each category, and which categories are most dominant in terms of spending?
 
 2. **[Credit Risk Analysis and Optimization of Lending Decisions](./Project-2-Credit-Risk-Analysis-and-Optimization-of-Lending-Decisions/)**  
+   - Tools: Python (Pandas, Numpy, Matplotlib, Seaborn, Scipy)
+   - Description: How to understand the patterns and characteristics of high-risk loans and optimize the credit assessment process to reduce financial losses.
+
+3. **[Taxi Fare Compliance Audit: Ensuring Fare Accuracy](./Project-3-Taxi-Fare-Compliance-Audit:-Ensuring-Fare-Accuracy/)**  
    - Tools: ...
    - Description: ...
 
