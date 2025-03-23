@@ -4,8 +4,8 @@
 How to increase profitability by optimizing ticket pricing strategies.
 
 ## Objectives
-- What variables or characteristics most significantly influence changes in ticket prices?
 - Patterns that create changes in ticket prices
+- What variables or characteristics most significantly influence changes in ticket prices?
 - Characters or patterns that have high profits assuming operational costs are 60%
 
 ## Repository Structure
