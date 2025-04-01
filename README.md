@@ -12,9 +12,9 @@ Welcome to my Data Analysis Portfolio! This repository showcases various data an
    - Tools: Python (Pandas, Numpy, Matplotlib, Seaborn, Scipy)
    - Description: How to understand the patterns and characteristics of high-risk loans and optimize the credit assessment process to reduce financial losses.
 
-3. **[Taxi Fare Compliance Audit: Ensuring Fare Accuracy](./Project-3-Taxi-Fare-Compliance-Audit:-Ensuring-Fare-Accuracy/)**  
-   - Tools: ...
-   - Description: ...
+3. **[Flight Price of Bangladesh Analysis](./Project-3-Flight-Price-Dataset-of-Bangladesh-Analysis/)**  
+   - Tools: Python (Pandas, Matplotlib, Seaborn, Numpy, Scipy, Sckit Posthocs, Kruskal, Multicomp)
+   - Description: How to increase profitability by optimizing ticket pricing strategies.
 
 ## 🛠️ Tools and Technologies
 - **Programming Languages**: Python, SQL
