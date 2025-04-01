@@ -60,6 +60,11 @@ How to increase profitability by optimizing ticket pricing strategies.
     - The platform used for booking has no significant effect on Base Fare—pricing strategies should instead focus on seasonality, class, or route.
 
 ## Visualization Screenshots
+![Average Price Changes](results/avg_price_changes.png)
+![Average Ticket per Class](results/avg_ticket_per_Class.png)
+![Average Ticket per Aircraft Type](results/avg_ticket_per_Type.png)
+![Duration Category Distribution for Airbus A320](results/dist_duration_cat.png)
+
 
 ## Repository Structure
 | File/Folder                                | Description                                   |
