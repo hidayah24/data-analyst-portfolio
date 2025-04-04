@@ -16,7 +16,7 @@ Welcome to my Data Analysis Portfolio! This repository showcases various data an
    - Tools: Python (Pandas, Matplotlib, Seaborn, Numpy, Scipy, Sckit Posthocs, Kruskal, Multicomp)
    - Description: How to increase profitability by optimizing ticket pricing strategies.
 
-4. **[E-Com Marketplace Revenue Growth Analysis](./Project-4-E_Com-Marketplace-Revenue-Growth-Analysis/)**  
+4. **[Fecom Marketplace Revenue Growth Analysis](./Project-4-Fecom-Marketplace-Revenue-Growth-Analysis/)**  
    - Tools: ...
    - Description: Fecom Inc. revenue growth slowed down in the last 6 months, even though the number of new customers continues to increase. How to understand why this is happening and what we can do to restore growth momentum.
 
