@@ -74,5 +74,6 @@ How to increase profitability by optimizing ticket pricing strategies.
 | `/data_cleaned.pkl                         | Dataframes stored in pickle files             |
 | `/data_eda.pkl                             | Dataframes stored in pickle files             |
 | `/data_eda(2).pkl                          | Dataframes stored in pickle files             |
+| `(Findings-Report).pdf`                    | The results of the data analysis              |
 | `/datasets/                                | The folder containing the dataset used        |
 | `/README.md`                               | Repository documentation file                 |
