@@ -7,5 +7,9 @@ Fecom Inc. revenue growth slowed down in the last 6 months, even though the numb
 
 ## Objectives
 1. 6-month revenue tracking
-2. ...
+2. Price Change Analysis
+3. Freight Value
+4. Order Status
+5. Payment Type
+6. ...
 ##
