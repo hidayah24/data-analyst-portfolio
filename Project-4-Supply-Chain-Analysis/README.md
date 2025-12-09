@@ -11,3 +11,8 @@ Analyze data in depth and provide concrete strategies to increase revenue in the
 5. Detect time & operational trends
 6. Evaluate order behavior for retention
 
+## Dataset
+- **File Name**: `incom2024_delay_example_dataset.csv`
+- **Source**: [Logistics Supply chain real world data](https://www.kaggle.com/datasets/pushpitkamboj/logistics-data-containing-real-world-data/data)
+- **Dataset Size**: 15549 rows, 41 columns
+
