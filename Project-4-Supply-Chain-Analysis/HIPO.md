@@ -1,5 +1,5 @@
 # Masalah
-1. Negatif Profit, Dimana akan ada potensi revenue +$100k+ jika fix root cause.
+1. Negatif Profit
 
 # Insight
 1. Tidak ada hubungan negatif profit dengan status order, karena status `COMPLETE` malah menyumbah negatif profit paling besar
