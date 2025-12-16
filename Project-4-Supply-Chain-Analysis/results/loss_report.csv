@@ -1,0 +1,771 @@
+,,,order_profit_per_order,order_profit_per_order,order_profit_per_order,order_item_discount_rate,delay_days
+,,,count,mean,sum,mean,mean
+shipping_mode,category_name,quantity_bins,,,,,
+First Class,Accessories,1,0,,0.0,,
+First Class,Accessories,2,2,-13.63,-27.27,0.15,-154.0
+First Class,Accessories,3,1,-68.23,-68.23,0.09,0.0
+First Class,Accessories,4-5,0,,0.0,,
+First Class,As Seen on  TV!,1,0,,0.0,,
+First Class,As Seen on  TV!,2,0,,0.0,,
+First Class,As Seen on  TV!,3,0,,0.0,,
+First Class,As Seen on  TV!,4-5,0,,0.0,,
+First Class,Baby ,1,1,-13.09,-13.09,0.12,-16.0
+First Class,Baby ,2,0,,0.0,,
+First Class,Baby ,3,0,,0.0,,
+First Class,Baby ,4-5,0,,0.0,,
+First Class,Baseball & Softball,1,0,,0.0,,
+First Class,Baseball & Softball,2,0,,0.0,,
+First Class,Baseball & Softball,3,3,-124.8,-374.4,0.06,-37.33
+First Class,Baseball & Softball,4-5,0,,0.0,,
+First Class,Basketball,1,0,,0.0,,
+First Class,Basketball,2,0,,0.0,,
+First Class,Basketball,3,0,,0.0,,
+First Class,Basketball,4-5,0,,0.0,,
+First Class,Books ,1,1,-36.89,-36.89,0.05,52.0
+First Class,Books ,2,0,,0.0,,
+First Class,Books ,3,0,,0.0,,
+First Class,Books ,4-5,0,,0.0,,
+First Class,Boxing & MMA,1,1,-26.93,-26.93,0.16,12.0
+First Class,Boxing & MMA,2,0,,0.0,,
+First Class,Boxing & MMA,3,0,,0.0,,
+First Class,Boxing & MMA,4-5,0,,0.0,,
+First Class,CDs ,1,0,,0.0,,
+First Class,CDs ,2,0,,0.0,,
+First Class,CDs ,3,0,,0.0,,
+First Class,CDs ,4-5,0,,0.0,,
+First Class,Cameras ,1,5,-227.19,-1135.94,0.02,-59.2
+First Class,Cameras ,2,0,,0.0,,
+First Class,Cameras ,3,0,,0.0,,
+First Class,Cameras ,4-5,0,,0.0,,
+First Class,Camping & Hiking,1,33,-241.53,-7970.45,0.12,-2.91
+First Class,Camping & Hiking,2,0,,0.0,,
+First Class,Camping & Hiking,3,0,,0.0,,
+First Class,Camping & Hiking,4-5,0,,0.0,,
+First Class,Cardio Equipment,1,10,-90.78,-907.85,0.08,-41.0
+First Class,Cardio Equipment,2,9,-91.63,-824.63,0.13,15.22
+First Class,Cardio Equipment,3,6,-317.32,-1903.91,0.13,16.67
+First Class,Cardio Equipment,4-5,0,,0.0,,
+First Class,Children's Clothing,1,0,,0.0,,
+First Class,Children's Clothing,2,0,,0.0,,
+First Class,Children's Clothing,3,0,,0.0,,
+First Class,Children's Clothing,4-5,0,,0.0,,
+First Class,Cleats,1,24,-71.08,-1705.88,0.1,8.25
+First Class,Cleats,2,9,-51.13,-460.17,0.12,20.67
+First Class,Cleats,3,17,-154.94,-2634.02,0.1,-0.47
+First Class,Cleats,4-5,14,-101.82,-1425.54,0.09,24.79
+First Class,Computers,1,0,,0.0,,
+First Class,Computers,2,0,,0.0,,
+First Class,Computers,3,0,,0.0,,
+First Class,Computers,4-5,0,,0.0,,
+First Class,Consumer Electronics,1,1,-124.53,-124.53,0.13,-127.0
+First Class,Consumer Electronics,2,0,,0.0,,
+First Class,Consumer Electronics,3,0,,0.0,,
+First Class,Consumer Electronics,4-5,0,,0.0,,
+First Class,Crafts,1,0,,0.0,,
+First Class,Crafts,2,0,,0.0,,
+First Class,Crafts,3,0,,0.0,,
+First Class,Crafts,4-5,0,,0.0,,
+First Class,DVDs,1,1,-13.8,-13.8,0.09,50.0
+First Class,DVDs,2,0,,0.0,,
+First Class,DVDs,3,0,,0.0,,
+First Class,DVDs,4-5,0,,0.0,,
+First Class,Electronics,1,4,-9.97,-39.87,0.1,23.0
+First Class,Electronics,2,1,-24.95,-24.95,0.15,-9.0
+First Class,Electronics,3,0,,0.0,,
+First Class,Electronics,4-5,2,-52.88,-105.77,0.09,-111.0
+First Class,Fishing,1,33,-156.21,-5154.93,0.09,14.09
+First Class,Fishing,2,0,,0.0,,
+First Class,Fishing,3,0,,0.0,,
+First Class,Fishing,4-5,0,,0.0,,
+First Class,Fitness Accessories,1,1,-8.46,-8.46,0.02,45.0
+First Class,Fitness Accessories,2,1,-9.99,-9.99,0.25,-192.0
+First Class,Fitness Accessories,3,0,,0.0,,
+First Class,Fitness Accessories,4-5,0,,0.0,,
+First Class,Garden,1,3,-230.22,-690.67,0.06,-6.67
+First Class,Garden,2,0,,0.0,,
+First Class,Garden,3,0,,0.0,,
+First Class,Garden,4-5,0,,0.0,,
+First Class,Girls' Apparel,1,0,,0.0,,
+First Class,Girls' Apparel,2,0,,0.0,,
+First Class,Girls' Apparel,3,0,,0.0,,
+First Class,Girls' Apparel,4-5,0,,0.0,,
+First Class,Golf Apparel,1,0,,0.0,,
+First Class,Golf Apparel,2,0,,0.0,,
+First Class,Golf Apparel,3,0,,0.0,,
+First Class,Golf Apparel,4-5,0,,0.0,,
+First Class,Golf Balls,1,2,-18.89,-37.78,0.08,59.0
+First Class,Golf Balls,2,0,,0.0,,
+First Class,Golf Balls,3,0,,0.0,,
+First Class,Golf Balls,4-5,0,,0.0,,
+First Class,Golf Gloves,1,1,-3442.5,-3442.5,0.0,1.0
+First Class,Golf Gloves,2,0,,0.0,,
+First Class,Golf Gloves,3,0,,0.0,,
+First Class,Golf Gloves,4-5,1,-113.4,-113.4,0.18,35.0
+First Class,Golf Shoes,1,0,,0.0,,
+First Class,Golf Shoes,2,0,,0.0,,
+First Class,Golf Shoes,3,0,,0.0,,
+First Class,Golf Shoes,4-5,1,-17.54,-17.54,0.2,35.0
+First Class,Health and Beauty,1,1,-22.14,-22.14,0.25,24.0
+First Class,Health and Beauty,2,0,,0.0,,
+First Class,Health and Beauty,3,0,,0.0,,
+First Class,Health and Beauty,4-5,0,,0.0,,
+First Class,Hockey,1,0,,0.0,,
+First Class,Hockey,2,1,-39.31,-39.31,0.03,-85.0
+First Class,Hockey,3,0,,0.0,,
+First Class,Hockey,4-5,0,,0.0,,
+First Class,Hunting & Shooting,1,1,-5.68,-5.68,0.18,-14.0
+First Class,Hunting & Shooting,2,0,,0.0,,
+First Class,Hunting & Shooting,3,1,-16.74,-16.74,0.0,9.0
+First Class,Hunting & Shooting,4-5,1,-38.38,-38.38,0.03,25.0
+First Class,Indoor/Outdoor Games,1,21,-49.52,-1039.92,0.12,21.48
+First Class,Indoor/Outdoor Games,2,8,-51.69,-413.52,0.1,34.12
+First Class,Indoor/Outdoor Games,3,12,-100.41,-1204.93,0.13,3.83
+First Class,Indoor/Outdoor Games,4-5,10,-128.8,-1288.01,0.11,34.5
+First Class,Kids' Golf Clubs,1,0,,0.0,,
+First Class,Kids' Golf Clubs,2,0,,0.0,,
+First Class,Kids' Golf Clubs,3,0,,0.0,,
+First Class,Kids' Golf Clubs,4-5,0,,0.0,,
+First Class,Lacrosse,1,0,,0.0,,
+First Class,Lacrosse,2,0,,0.0,,
+First Class,Lacrosse,3,0,,0.0,,
+First Class,Lacrosse,4-5,0,,0.0,,
+First Class,Men's Clothing,1,0,,0.0,,
+First Class,Men's Clothing,2,0,,0.0,,
+First Class,Men's Clothing,3,0,,0.0,,
+First Class,Men's Clothing,4-5,0,,0.0,,
+First Class,Men's Footwear,1,49,-80.79,-3958.57,0.1,5.02
+First Class,Men's Footwear,2,1,-44.81,-44.81,0.07,41.0
+First Class,Men's Footwear,3,0,,0.0,,
+First Class,Men's Footwear,4-5,0,,0.0,,
+First Class,Men's Golf Clubs,1,0,,0.0,,
+First Class,Men's Golf Clubs,2,0,,0.0,,
+First Class,Men's Golf Clubs,3,0,,0.0,,
+First Class,Men's Golf Clubs,4-5,0,,0.0,,
+First Class,Music,1,2,-265.26,-530.53,0.16,-134.0
+First Class,Music,2,0,,0.0,,
+First Class,Music,3,0,,0.0,,
+First Class,Music,4-5,0,,0.0,,
+First Class,Pet Supplies,1,2,-19.21,-38.42,0.06,-66.0
+First Class,Pet Supplies,2,0,,0.0,,
+First Class,Pet Supplies,3,0,,0.0,,
+First Class,Pet Supplies,4-5,0,,0.0,,
+First Class,Shop By Sport,1,19,-46.63,-885.91,0.08,15.32
+First Class,Shop By Sport,2,9,-45.71,-411.38,0.1,9.89
+First Class,Shop By Sport,3,4,-177.45,-709.82,0.16,11.75
+First Class,Shop By Sport,4-5,8,-121.04,-968.35,0.14,-2.75
+First Class,Soccer,1,1,-40.18,-40.18,0.05,-10.0
+First Class,Soccer,2,1,-24.03,-24.03,0.07,-83.0
+First Class,Soccer,3,0,,0.0,,
+First Class,Soccer,4-5,0,,0.0,,
+First Class,Sporting Goods,1,0,,0.0,,
+First Class,Sporting Goods,2,0,,0.0,,
+First Class,Sporting Goods,3,0,,0.0,,
+First Class,Sporting Goods,4-5,0,,0.0,,
+First Class,Strength Training,1,0,,0.0,,
+First Class,Strength Training,2,0,,0.0,,
+First Class,Strength Training,3,0,,0.0,,
+First Class,Strength Training,4-5,0,,0.0,,
+First Class,Tennis & Racquet,1,0,,0.0,,
+First Class,Tennis & Racquet,2,0,,0.0,,
+First Class,Tennis & Racquet,3,0,,0.0,,
+First Class,Tennis & Racquet,4-5,0,,0.0,,
+First Class,Toys,1,1,-4.1,-4.1,0.15,1.0
+First Class,Toys,2,0,,0.0,,
+First Class,Toys,3,0,,0.0,,
+First Class,Toys,4-5,0,,0.0,,
+First Class,Trade-In,1,2,-10.5,-21.01,0.03,45.5
+First Class,Trade-In,2,0,,0.0,,
+First Class,Trade-In,3,0,,0.0,,
+First Class,Trade-In,4-5,0,,0.0,,
+First Class,Video Games,1,2,-80.45,-160.9,0.16,16.5
+First Class,Video Games,2,0,,0.0,,
+First Class,Video Games,3,0,,0.0,,
+First Class,Video Games,4-5,0,,0.0,,
+First Class,Water Sports,1,37,-104.34,-3860.69,0.09,20.81
+First Class,Water Sports,2,0,,0.0,,
+First Class,Water Sports,3,0,,0.0,,
+First Class,Water Sports,4-5,0,,0.0,,
+First Class,Women's Apparel,1,17,-211.45,-3594.73,0.12,9.65
+First Class,Women's Apparel,2,14,-136.37,-1909.13,0.07,7.14
+First Class,Women's Apparel,3,8,-52.96,-423.7,0.09,33.62
+First Class,Women's Apparel,4-5,10,-175.4,-1754.03,0.13,-42.8
+First Class,Women's Clothing,1,4,-161.69,-646.76,0.08,-17.5
+First Class,Women's Clothing,2,0,,0.0,,
+First Class,Women's Clothing,3,0,,0.0,,
+First Class,Women's Clothing,4-5,0,,0.0,,
+Same Day,Accessories,1,0,,0.0,,
+Same Day,Accessories,2,1,-21.25,-21.25,0.17,-17.0
+Same Day,Accessories,3,0,,0.0,,
+Same Day,Accessories,4-5,2,-74.4,-148.8,0.06,-11.0
+Same Day,As Seen on  TV!,1,0,,0.0,,
+Same Day,As Seen on  TV!,2,1,-120.45,-120.45,0.1,0.0
+Same Day,As Seen on  TV!,3,0,,0.0,,
+Same Day,As Seen on  TV!,4-5,0,,0.0,,
+Same Day,Baby ,1,0,,0.0,,
+Same Day,Baby ,2,0,,0.0,,
+Same Day,Baby ,3,0,,0.0,,
+Same Day,Baby ,4-5,0,,0.0,,
+Same Day,Baseball & Softball,1,0,,0.0,,
+Same Day,Baseball & Softball,2,0,,0.0,,
+Same Day,Baseball & Softball,3,0,,0.0,,
+Same Day,Baseball & Softball,4-5,0,,0.0,,
+Same Day,Basketball,1,0,,0.0,,
+Same Day,Basketball,2,0,,0.0,,
+Same Day,Basketball,3,0,,0.0,,
+Same Day,Basketball,4-5,0,,0.0,,
+Same Day,Books ,1,0,,0.0,,
+Same Day,Books ,2,0,,0.0,,
+Same Day,Books ,3,0,,0.0,,
+Same Day,Books ,4-5,0,,0.0,,
+Same Day,Boxing & MMA,1,0,,0.0,,
+Same Day,Boxing & MMA,2,0,,0.0,,
+Same Day,Boxing & MMA,3,0,,0.0,,
+Same Day,Boxing & MMA,4-5,0,,0.0,,
+Same Day,CDs ,1,0,,0.0,,
+Same Day,CDs ,2,0,,0.0,,
+Same Day,CDs ,3,0,,0.0,,
+Same Day,CDs ,4-5,0,,0.0,,
+Same Day,Cameras ,1,0,,0.0,,
+Same Day,Cameras ,2,0,,0.0,,
+Same Day,Cameras ,3,0,,0.0,,
+Same Day,Cameras ,4-5,0,,0.0,,
+Same Day,Camping & Hiking,1,14,-146.98,-2057.79,0.06,3.71
+Same Day,Camping & Hiking,2,0,,0.0,,
+Same Day,Camping & Hiking,3,0,,0.0,,
+Same Day,Camping & Hiking,4-5,0,,0.0,,
+Same Day,Cardio Equipment,1,5,-225.25,-1126.25,0.09,-18.2
+Same Day,Cardio Equipment,2,2,-126.69,-253.38,0.08,-11.0
+Same Day,Cardio Equipment,3,3,-237.5,-712.49,0.16,64.33
+Same Day,Cardio Equipment,4-5,4,-1034.91,-4139.63,0.04,-340.25
+Same Day,Children's Clothing,1,0,,0.0,,
+Same Day,Children's Clothing,2,0,,0.0,,
+Same Day,Children's Clothing,3,0,,0.0,,
+Same Day,Children's Clothing,4-5,0,,0.0,,
+Same Day,Cleats,1,8,-50.26,-402.09,0.11,12.5
+Same Day,Cleats,2,4,-62.89,-251.56,0.1,16.75
+Same Day,Cleats,3,1,-103.43,-103.43,0.12,-9.0
+Same Day,Cleats,4-5,5,-119.57,-597.85,0.14,20.6
+Same Day,Computers,1,0,,0.0,,
+Same Day,Computers,2,0,,0.0,,
+Same Day,Computers,3,0,,0.0,,
+Same Day,Computers,4-5,0,,0.0,,
+Same Day,Consumer Electronics,1,0,,0.0,,
+Same Day,Consumer Electronics,2,0,,0.0,,
+Same Day,Consumer Electronics,3,0,,0.0,,
+Same Day,Consumer Electronics,4-5,0,,0.0,,
+Same Day,Crafts,1,0,,0.0,,
+Same Day,Crafts,2,0,,0.0,,
+Same Day,Crafts,3,0,,0.0,,
+Same Day,Crafts,4-5,1,-3442.5,-3442.5,0.01,57.0
+Same Day,DVDs,1,0,,0.0,,
+Same Day,DVDs,2,0,,0.0,,
+Same Day,DVDs,3,0,,0.0,,
+Same Day,DVDs,4-5,0,,0.0,,
+Same Day,Electronics,1,0,,0.0,,
+Same Day,Electronics,2,2,-146.05,-292.1,0.14,21.0
+Same Day,Electronics,3,1,-10.67,-10.67,0.18,-10.0
+Same Day,Electronics,4-5,0,,0.0,,
+Same Day,Fishing,1,16,-251.72,-4027.53,0.11,-10.75
+Same Day,Fishing,2,0,,0.0,,
+Same Day,Fishing,3,0,,0.0,,
+Same Day,Fishing,4-5,0,,0.0,,
+Same Day,Fitness Accessories,1,1,-8.75,-8.75,0.05,-29.0
+Same Day,Fitness Accessories,2,0,,0.0,,
+Same Day,Fitness Accessories,3,0,,0.0,,
+Same Day,Fitness Accessories,4-5,0,,0.0,,
+Same Day,Garden,1,0,,0.0,,
+Same Day,Garden,2,0,,0.0,,
+Same Day,Garden,3,0,,0.0,,
+Same Day,Garden,4-5,0,,0.0,,
+Same Day,Girls' Apparel,1,0,,0.0,,
+Same Day,Girls' Apparel,2,0,,0.0,,
+Same Day,Girls' Apparel,3,0,,0.0,,
+Same Day,Girls' Apparel,4-5,0,,0.0,,
+Same Day,Golf Apparel,1,0,,0.0,,
+Same Day,Golf Apparel,2,0,,0.0,,
+Same Day,Golf Apparel,3,0,,0.0,,
+Same Day,Golf Apparel,4-5,0,,0.0,,
+Same Day,Golf Balls,1,0,,0.0,,
+Same Day,Golf Balls,2,0,,0.0,,
+Same Day,Golf Balls,3,0,,0.0,,
+Same Day,Golf Balls,4-5,0,,0.0,,
+Same Day,Golf Gloves,1,1,-27.18,-27.18,0.25,12.0
+Same Day,Golf Gloves,2,0,,0.0,,
+Same Day,Golf Gloves,3,0,,0.0,,
+Same Day,Golf Gloves,4-5,0,,0.0,,
+Same Day,Golf Shoes,1,0,,0.0,,
+Same Day,Golf Shoes,2,0,,0.0,,
+Same Day,Golf Shoes,3,0,,0.0,,
+Same Day,Golf Shoes,4-5,0,,0.0,,
+Same Day,Health and Beauty,1,0,,0.0,,
+Same Day,Health and Beauty,2,0,,0.0,,
+Same Day,Health and Beauty,3,0,,0.0,,
+Same Day,Health and Beauty,4-5,0,,0.0,,
+Same Day,Hockey,1,0,,0.0,,
+Same Day,Hockey,2,0,,0.0,,
+Same Day,Hockey,3,0,,0.0,,
+Same Day,Hockey,4-5,0,,0.0,,
+Same Day,Hunting & Shooting,1,0,,0.0,,
+Same Day,Hunting & Shooting,2,0,,0.0,,
+Same Day,Hunting & Shooting,3,0,,0.0,,
+Same Day,Hunting & Shooting,4-5,0,,0.0,,
+Same Day,Indoor/Outdoor Games,1,5,-51.9,-259.5,0.16,-14.2
+Same Day,Indoor/Outdoor Games,2,5,-89.55,-447.76,0.07,13.8
+Same Day,Indoor/Outdoor Games,3,5,-64.18,-320.89,0.07,-27.6
+Same Day,Indoor/Outdoor Games,4-5,4,-15.21,-60.85,0.09,-16.25
+Same Day,Kids' Golf Clubs,1,0,,0.0,,
+Same Day,Kids' Golf Clubs,2,0,,0.0,,
+Same Day,Kids' Golf Clubs,3,0,,0.0,,
+Same Day,Kids' Golf Clubs,4-5,0,,0.0,,
+Same Day,Lacrosse,1,0,,0.0,,
+Same Day,Lacrosse,2,0,,0.0,,
+Same Day,Lacrosse,3,1,-74.35,-74.35,0.02,39.0
+Same Day,Lacrosse,4-5,0,,0.0,,
+Same Day,Men's Clothing,1,0,,0.0,,
+Same Day,Men's Clothing,2,0,,0.0,,
+Same Day,Men's Clothing,3,0,,0.0,,
+Same Day,Men's Clothing,4-5,0,,0.0,,
+Same Day,Men's Footwear,1,19,-106.58,-2025.02,0.12,7.68
+Same Day,Men's Footwear,2,0,,0.0,,
+Same Day,Men's Footwear,3,0,,0.0,,
+Same Day,Men's Footwear,4-5,0,,0.0,,
+Same Day,Men's Golf Clubs,1,0,,0.0,,
+Same Day,Men's Golf Clubs,2,0,,0.0,,
+Same Day,Men's Golf Clubs,3,0,,0.0,,
+Same Day,Men's Golf Clubs,4-5,0,,0.0,,
+Same Day,Music,1,0,,0.0,,
+Same Day,Music,2,0,,0.0,,
+Same Day,Music,3,0,,0.0,,
+Same Day,Music,4-5,0,,0.0,,
+Same Day,Pet Supplies,1,0,,0.0,,
+Same Day,Pet Supplies,2,0,,0.0,,
+Same Day,Pet Supplies,3,0,,0.0,,
+Same Day,Pet Supplies,4-5,0,,0.0,,
+Same Day,Shop By Sport,1,8,-104.24,-833.94,0.08,26.62
+Same Day,Shop By Sport,2,2,-107.02,-214.04,0.04,30.0
+Same Day,Shop By Sport,3,3,-95.15,-285.45,0.12,12.33
+Same Day,Shop By Sport,4-5,1,-212.48,-212.48,0.1,0.0
+Same Day,Soccer,1,0,,0.0,,
+Same Day,Soccer,2,0,,0.0,,
+Same Day,Soccer,3,0,,0.0,,
+Same Day,Soccer,4-5,0,,0.0,,
+Same Day,Sporting Goods,1,0,,0.0,,
+Same Day,Sporting Goods,2,0,,0.0,,
+Same Day,Sporting Goods,3,0,,0.0,,
+Same Day,Sporting Goods,4-5,0,,0.0,,
+Same Day,Strength Training,1,0,,0.0,,
+Same Day,Strength Training,2,0,,0.0,,
+Same Day,Strength Training,3,0,,0.0,,
+Same Day,Strength Training,4-5,0,,0.0,,
+Same Day,Tennis & Racquet,1,0,,0.0,,
+Same Day,Tennis & Racquet,2,0,,0.0,,
+Same Day,Tennis & Racquet,3,0,,0.0,,
+Same Day,Tennis & Racquet,4-5,0,,0.0,,
+Same Day,Toys,1,2,-27.24,-54.49,0.17,16.5
+Same Day,Toys,2,0,,0.0,,
+Same Day,Toys,3,0,,0.0,,
+Same Day,Toys,4-5,0,,0.0,,
+Same Day,Trade-In,1,0,,0.0,,
+Same Day,Trade-In,2,0,,0.0,,
+Same Day,Trade-In,3,0,,0.0,,
+Same Day,Trade-In,4-5,0,,0.0,,
+Same Day,Video Games,1,0,,0.0,,
+Same Day,Video Games,2,0,,0.0,,
+Same Day,Video Games,3,0,,0.0,,
+Same Day,Video Games,4-5,0,,0.0,,
+Same Day,Water Sports,1,13,-119.16,-1549.12,0.05,-15.15
+Same Day,Water Sports,2,0,,0.0,,
+Same Day,Water Sports,3,0,,0.0,,
+Same Day,Water Sports,4-5,0,,0.0,,
+Same Day,Women's Apparel,1,8,-60.51,-484.09,0.07,3.0
+Same Day,Women's Apparel,2,3,-70.23,-210.68,0.07,-62.33
+Same Day,Women's Apparel,3,4,-114.76,-459.05,0.04,8.0
+Same Day,Women's Apparel,4-5,5,-227.58,-1137.89,0.09,7.2
+Same Day,Women's Clothing,1,0,,0.0,,
+Same Day,Women's Clothing,2,0,,0.0,,
+Same Day,Women's Clothing,3,0,,0.0,,
+Same Day,Women's Clothing,4-5,0,,0.0,,
+Second Class,Accessories,1,0,,0.0,,
+Second Class,Accessories,2,0,,0.0,,
+Second Class,Accessories,3,0,,0.0,,
+Second Class,Accessories,4-5,0,,0.0,,
+Second Class,As Seen on  TV!,1,0,,0.0,,
+Second Class,As Seen on  TV!,2,0,,0.0,,
+Second Class,As Seen on  TV!,3,0,,0.0,,
+Second Class,As Seen on  TV!,4-5,1,-34.42,-34.42,0.2,109.0
+Second Class,Baby ,1,1,-357.19,-357.19,0.13,15.0
+Second Class,Baby ,2,0,,0.0,,
+Second Class,Baby ,3,0,,0.0,,
+Second Class,Baby ,4-5,0,,0.0,,
+Second Class,Baseball & Softball,1,0,,0.0,,
+Second Class,Baseball & Softball,2,0,,0.0,,
+Second Class,Baseball & Softball,3,0,,0.0,,
+Second Class,Baseball & Softball,4-5,1,-194.67,-194.67,0.04,18.0
+Second Class,Basketball,1,0,,0.0,,
+Second Class,Basketball,2,0,,0.0,,
+Second Class,Basketball,3,0,,0.0,,
+Second Class,Basketball,4-5,0,,0.0,,
+Second Class,Books ,1,1,-2.05,-2.05,0.05,5.0
+Second Class,Books ,2,0,,0.0,,
+Second Class,Books ,3,0,,0.0,,
+Second Class,Books ,4-5,0,,0.0,,
+Second Class,Boxing & MMA,1,1,-27.75,-27.75,0.07,8.0
+Second Class,Boxing & MMA,2,0,,0.0,,
+Second Class,Boxing & MMA,3,1,-2.43,-2.43,0.25,107.0
+Second Class,Boxing & MMA,4-5,0,,0.0,,
+Second Class,CDs ,1,2,-7.14,-14.28,0.02,42.0
+Second Class,CDs ,2,0,,0.0,,
+Second Class,CDs ,3,0,,0.0,,
+Second Class,CDs ,4-5,0,,0.0,,
+Second Class,Cameras ,1,1,-27.0,-27.0,0.16,-33.0
+Second Class,Cameras ,2,0,,0.0,,
+Second Class,Cameras ,3,1,-13.72,-13.72,0.0,50.0
+Second Class,Cameras ,4-5,0,,0.0,,
+Second Class,Camping & Hiking,1,41,-112.08,-4595.48,0.1,4.49
+Second Class,Camping & Hiking,2,0,,0.0,,
+Second Class,Camping & Hiking,3,0,,0.0,,
+Second Class,Camping & Hiking,4-5,0,,0.0,,
+Second Class,Cardio Equipment,1,14,-128.15,-1794.05,0.11,-28.36
+Second Class,Cardio Equipment,2,9,-233.01,-2097.09,0.11,37.89
+Second Class,Cardio Equipment,3,13,-204.44,-2657.66,0.09,42.23
+Second Class,Cardio Equipment,4-5,8,-254.65,-2037.21,0.16,37.12
+Second Class,Children's Clothing,1,3,-205.74,-617.21,0.07,3.33
+Second Class,Children's Clothing,2,0,,0.0,,
+Second Class,Children's Clothing,3,0,,0.0,,
+Second Class,Children's Clothing,4-5,0,,0.0,,
+Second Class,Cleats,1,46,-43.0,-1978.01,0.11,29.52
+Second Class,Cleats,2,16,-99.86,-1597.81,0.1,3.06
+Second Class,Cleats,3,19,-108.85,-2068.12,0.11,13.89
+Second Class,Cleats,4-5,12,-116.48,-1397.74,0.12,38.67
+Second Class,Computers,1,2,-28.63,-57.26,0.15,-31.0
+Second Class,Computers,2,0,,0.0,,
+Second Class,Computers,3,0,,0.0,,
+Second Class,Computers,4-5,0,,0.0,,
+Second Class,Consumer Electronics,1,1,-2.78,-2.78,0.13,116.0
+Second Class,Consumer Electronics,2,0,,0.0,,
+Second Class,Consumer Electronics,3,0,,0.0,,
+Second Class,Consumer Electronics,4-5,0,,0.0,,
+Second Class,Crafts,1,2,-204.19,-408.39,0.12,18.5
+Second Class,Crafts,2,0,,0.0,,
+Second Class,Crafts,3,1,-153.43,-153.43,0.1,-74.0
+Second Class,Crafts,4-5,1,-36.16,-36.16,0.25,24.0
+Second Class,DVDs,1,0,,0.0,,
+Second Class,DVDs,2,0,,0.0,,
+Second Class,DVDs,3,0,,0.0,,
+Second Class,DVDs,4-5,0,,0.0,,
+Second Class,Electronics,1,4,-52.28,-209.12,0.06,23.5
+Second Class,Electronics,2,3,-110.69,-332.07,0.05,36.33
+Second Class,Electronics,3,2,-87.59,-175.18,0.04,9.0
+Second Class,Electronics,4-5,5,-115.76,-578.8,0.1,-15.2
+Second Class,Fishing,1,57,-253.41,-14444.38,0.09,-7.86
+Second Class,Fishing,2,0,,0.0,,
+Second Class,Fishing,3,0,,0.0,,
+Second Class,Fishing,4-5,0,,0.0,,
+Second Class,Fitness Accessories,1,0,,0.0,,
+Second Class,Fitness Accessories,2,0,,0.0,,
+Second Class,Fitness Accessories,3,0,,0.0,,
+Second Class,Fitness Accessories,4-5,0,,0.0,,
+Second Class,Garden,1,1,-198.58,-198.58,0.2,233.0
+Second Class,Garden,2,0,,0.0,,
+Second Class,Garden,3,0,,0.0,,
+Second Class,Garden,4-5,0,,0.0,,
+Second Class,Girls' Apparel,1,0,,0.0,,
+Second Class,Girls' Apparel,2,1,-32.73,-32.73,0.02,-71.0
+Second Class,Girls' Apparel,3,1,-267.29,-267.29,0.06,118.0
+Second Class,Girls' Apparel,4-5,2,-1144.14,-2288.28,0.08,-10.5
+Second Class,Golf Apparel,1,0,,0.0,,
+Second Class,Golf Apparel,2,0,,0.0,,
+Second Class,Golf Apparel,3,1,-8.35,-8.35,0.17,-68.0
+Second Class,Golf Apparel,4-5,0,,0.0,,
+Second Class,Golf Balls,1,1,-18.81,-18.81,0.06,-48.0
+Second Class,Golf Balls,2,0,,0.0,,
+Second Class,Golf Balls,3,3,-137.19,-411.58,0.08,-95.0
+Second Class,Golf Balls,4-5,2,-77.41,-154.82,0.1,-142.5
+Second Class,Golf Gloves,1,2,-44.94,-89.87,0.16,81.0
+Second Class,Golf Gloves,2,0,,0.0,,
+Second Class,Golf Gloves,3,2,-25.89,-51.78,0.08,63.5
+Second Class,Golf Gloves,4-5,1,-35.62,-35.62,0.05,-23.0
+Second Class,Golf Shoes,1,0,,0.0,,
+Second Class,Golf Shoes,2,0,,0.0,,
+Second Class,Golf Shoes,3,0,,0.0,,
+Second Class,Golf Shoes,4-5,0,,0.0,,
+Second Class,Health and Beauty,1,1,-101.63,-101.63,0.1,184.0
+Second Class,Health and Beauty,2,0,,0.0,,
+Second Class,Health and Beauty,3,0,,0.0,,
+Second Class,Health and Beauty,4-5,0,,0.0,,
+Second Class,Hockey,1,1,-33.25,-33.25,0.09,-2.0
+Second Class,Hockey,2,1,-8.9,-8.9,0.25,5.0
+Second Class,Hockey,3,0,,0.0,,
+Second Class,Hockey,4-5,0,,0.0,,
+Second Class,Hunting & Shooting,1,2,-4.96,-9.92,0.1,99.0
+Second Class,Hunting & Shooting,2,0,,0.0,,
+Second Class,Hunting & Shooting,3,2,-12.25,-24.49,0.14,18.5
+Second Class,Hunting & Shooting,4-5,0,,0.0,,
+Second Class,Indoor/Outdoor Games,1,23,-62.51,-1437.79,0.1,17.09
+Second Class,Indoor/Outdoor Games,2,6,-133.18,-799.06,0.11,-31.17
+Second Class,Indoor/Outdoor Games,3,17,-106.73,-1814.41,0.08,-13.35
+Second Class,Indoor/Outdoor Games,4-5,9,-105.75,-951.79,0.1,6.67
+Second Class,Kids' Golf Clubs,1,0,,0.0,,
+Second Class,Kids' Golf Clubs,2,0,,0.0,,
+Second Class,Kids' Golf Clubs,3,0,,0.0,,
+Second Class,Kids' Golf Clubs,4-5,0,,0.0,,
+Second Class,Lacrosse,1,0,,0.0,,
+Second Class,Lacrosse,2,0,,0.0,,
+Second Class,Lacrosse,3,1,-25.29,-25.29,0.25,-46.0
+Second Class,Lacrosse,4-5,0,,0.0,,
+Second Class,Men's Clothing,1,0,,0.0,,
+Second Class,Men's Clothing,2,0,,0.0,,
+Second Class,Men's Clothing,3,0,,0.0,,
+Second Class,Men's Clothing,4-5,0,,0.0,,
+Second Class,Men's Footwear,1,81,-77.39,-6268.95,0.11,14.27
+Second Class,Men's Footwear,2,0,,0.0,,
+Second Class,Men's Footwear,3,0,,0.0,,
+Second Class,Men's Footwear,4-5,0,,0.0,,
+Second Class,Men's Golf Clubs,1,1,-2.29,-2.29,0.06,193.0
+Second Class,Men's Golf Clubs,2,0,,0.0,,
+Second Class,Men's Golf Clubs,3,0,,0.0,,
+Second Class,Men's Golf Clubs,4-5,0,,0.0,,
+Second Class,Music,1,3,-173.01,-519.04,0.05,-56.67
+Second Class,Music,2,1,-22.06,-22.06,0.07,-26.0
+Second Class,Music,3,0,,0.0,,
+Second Class,Music,4-5,0,,0.0,,
+Second Class,Pet Supplies,1,2,-54.06,-108.11,0.1,45.5
+Second Class,Pet Supplies,2,0,,0.0,,
+Second Class,Pet Supplies,3,0,,0.0,,
+Second Class,Pet Supplies,4-5,0,,0.0,,
+Second Class,Shop By Sport,1,14,-31.79,-445.12,0.09,77.0
+Second Class,Shop By Sport,2,4,-103.3,-413.21,0.1,-59.0
+Second Class,Shop By Sport,3,16,-81.05,-1296.88,0.11,-21.31
+Second Class,Shop By Sport,4-5,7,-165.63,-1159.41,0.14,-78.0
+Second Class,Soccer,1,0,,0.0,,
+Second Class,Soccer,2,0,,0.0,,
+Second Class,Soccer,3,1,-41.58,-41.58,0.03,24.0
+Second Class,Soccer,4-5,0,,0.0,,
+Second Class,Sporting Goods,1,0,,0.0,,
+Second Class,Sporting Goods,2,0,,0.0,,
+Second Class,Sporting Goods,3,0,,0.0,,
+Second Class,Sporting Goods,4-5,0,,0.0,,
+Second Class,Strength Training,1,1,-336.01,-336.01,0.09,49.0
+Second Class,Strength Training,2,0,,0.0,,
+Second Class,Strength Training,3,0,,0.0,,
+Second Class,Strength Training,4-5,0,,0.0,,
+Second Class,Tennis & Racquet,1,0,,0.0,,
+Second Class,Tennis & Racquet,2,0,,0.0,,
+Second Class,Tennis & Racquet,3,0,,0.0,,
+Second Class,Tennis & Racquet,4-5,0,,0.0,,
+Second Class,Toys,1,0,,0.0,,
+Second Class,Toys,2,0,,0.0,,
+Second Class,Toys,3,0,,0.0,,
+Second Class,Toys,4-5,0,,0.0,,
+Second Class,Trade-In,1,0,,0.0,,
+Second Class,Trade-In,2,0,,0.0,,
+Second Class,Trade-In,3,0,,0.0,,
+Second Class,Trade-In,4-5,0,,0.0,,
+Second Class,Video Games,1,1,-3.21,-3.21,0.07,73.0
+Second Class,Video Games,2,0,,0.0,,
+Second Class,Video Games,3,0,,0.0,,
+Second Class,Video Games,4-5,0,,0.0,,
+Second Class,Water Sports,1,60,-114.35,-6861.26,0.11,11.3
+Second Class,Water Sports,2,0,,0.0,,
+Second Class,Water Sports,3,0,,0.0,,
+Second Class,Water Sports,4-5,0,,0.0,,
+Second Class,Women's Apparel,1,30,-49.85,-1495.38,0.08,5.37
+Second Class,Women's Apparel,2,13,-121.02,-1573.32,0.12,-17.69
+Second Class,Women's Apparel,3,14,-121.39,-1699.43,0.14,-2.43
+Second Class,Women's Apparel,4-5,20,-203.66,-4073.2,0.07,38.4
+Second Class,Women's Clothing,1,2,-83.75,-167.5,0.05,1.0
+Second Class,Women's Clothing,2,0,,0.0,,
+Second Class,Women's Clothing,3,0,,0.0,,
+Second Class,Women's Clothing,4-5,0,,0.0,,
+Standard Class,Accessories,1,2,-98.86,-197.73,0.06,24.0
+Standard Class,Accessories,2,1,-11.88,-11.88,0.09,10.0
+Standard Class,Accessories,3,4,-78.74,-314.96,0.1,42.25
+Standard Class,Accessories,4-5,4,-95.37,-381.49,0.16,42.5
+Standard Class,As Seen on  TV!,1,3,-39.22,-117.67,0.13,13.0
+Standard Class,As Seen on  TV!,2,2,-18.04,-36.09,0.2,-64.5
+Standard Class,As Seen on  TV!,3,0,,0.0,,
+Standard Class,As Seen on  TV!,4-5,0,,0.0,,
+Standard Class,Baby ,1,2,-4.76,-9.51,0.18,18.0
+Standard Class,Baby ,2,0,,0.0,,
+Standard Class,Baby ,3,0,,0.0,,
+Standard Class,Baby ,4-5,0,,0.0,,
+Standard Class,Baseball & Softball,1,2,-25.15,-50.29,0.1,65.0
+Standard Class,Baseball & Softball,2,0,,0.0,,
+Standard Class,Baseball & Softball,3,0,,0.0,,
+Standard Class,Baseball & Softball,4-5,1,-277.08,-277.08,0.02,84.0
+Standard Class,Basketball,1,2,-90.78,-181.56,0.16,-156.5
+Standard Class,Basketball,2,0,,0.0,,
+Standard Class,Basketball,3,1,-89.08,-89.08,0.04,-34.0
+Standard Class,Basketball,4-5,0,,0.0,,
+Standard Class,Books ,1,3,-37.74,-113.23,0.06,119.0
+Standard Class,Books ,2,0,,0.0,,
+Standard Class,Books ,3,0,,0.0,,
+Standard Class,Books ,4-5,0,,0.0,,
+Standard Class,Boxing & MMA,1,0,,0.0,,
+Standard Class,Boxing & MMA,2,1,-223.47,-223.47,0.17,215.0
+Standard Class,Boxing & MMA,3,1,-70.03,-70.03,0.06,31.0
+Standard Class,Boxing & MMA,4-5,2,-182.01,-364.03,0.08,14.5
+Standard Class,CDs ,1,2,-18.25,-36.51,0.08,0.5
+Standard Class,CDs ,2,0,,0.0,,
+Standard Class,CDs ,3,0,,0.0,,
+Standard Class,CDs ,4-5,0,,0.0,,
+Standard Class,Cameras ,1,5,-110.5,-552.52,0.11,-20.0
+Standard Class,Cameras ,2,0,,0.0,,
+Standard Class,Cameras ,3,0,,0.0,,
+Standard Class,Cameras ,4-5,0,,0.0,,
+Standard Class,Camping & Hiking,1,111,-129.72,-14399.46,0.1,16.68
+Standard Class,Camping & Hiking,2,0,,0.0,,
+Standard Class,Camping & Hiking,3,0,,0.0,,
+Standard Class,Camping & Hiking,4-5,0,,0.0,,
+Standard Class,Cardio Equipment,1,50,-104.17,-5208.54,0.11,-1.46
+Standard Class,Cardio Equipment,2,25,-133.1,-3327.41,0.12,-19.0
+Standard Class,Cardio Equipment,3,27,-193.2,-5216.31,0.11,27.48
+Standard Class,Cardio Equipment,4-5,23,-193.52,-4451.03,0.12,19.74
+Standard Class,Children's Clothing,1,7,-205.21,-1436.47,0.11,-3.57
+Standard Class,Children's Clothing,2,0,,0.0,,
+Standard Class,Children's Clothing,3,0,,0.0,,
+Standard Class,Children's Clothing,4-5,0,,0.0,,
+Standard Class,Cleats,1,95,-47.48,-4510.2,0.11,17.33
+Standard Class,Cleats,2,42,-74.4,-3124.86,0.11,11.88
+Standard Class,Cleats,3,48,-122.91,-5899.61,0.08,14.83
+Standard Class,Cleats,4-5,44,-145.97,-6422.54,0.12,11.07
+Standard Class,Computers,1,2,-259.61,-519.22,0.18,-37.5
+Standard Class,Computers,2,0,,0.0,,
+Standard Class,Computers,3,0,,0.0,,
+Standard Class,Computers,4-5,0,,0.0,,
+Standard Class,Consumer Electronics,1,4,-105.2,-420.81,0.09,-61.25
+Standard Class,Consumer Electronics,2,0,,0.0,,
+Standard Class,Consumer Electronics,3,0,,0.0,,
+Standard Class,Consumer Electronics,4-5,0,,0.0,,
+Standard Class,Crafts,1,3,-285.77,-857.32,0.04,27.0
+Standard Class,Crafts,2,0,,0.0,,
+Standard Class,Crafts,3,0,,0.0,,
+Standard Class,Crafts,4-5,2,-21.32,-42.64,0.16,75.5
+Standard Class,DVDs,1,1,-24.3,-24.3,0.25,222.0
+Standard Class,DVDs,2,0,,0.0,,
+Standard Class,DVDs,3,0,,0.0,,
+Standard Class,DVDs,4-5,0,,0.0,,
+Standard Class,Electronics,1,7,-28.01,-196.05,0.07,32.71
+Standard Class,Electronics,2,4,-97.36,-389.43,0.16,-13.25
+Standard Class,Electronics,3,9,-172.51,-1552.55,0.09,-28.89
+Standard Class,Electronics,4-5,4,-125.91,-503.63,0.1,-7.0
+Standard Class,Fishing,1,151,-196.28,-29637.84,0.1,14.78
+Standard Class,Fishing,2,0,,0.0,,
+Standard Class,Fishing,3,0,,0.0,,
+Standard Class,Fishing,4-5,0,,0.0,,
+Standard Class,Fitness Accessories,1,2,-13.62,-27.24,0.19,86.0
+Standard Class,Fitness Accessories,2,1,-15.11,-15.11,0.01,48.0
+Standard Class,Fitness Accessories,3,0,,0.0,,
+Standard Class,Fitness Accessories,4-5,0,,0.0,,
+Standard Class,Garden,1,7,-220.42,-1542.95,0.12,10.43
+Standard Class,Garden,2,0,,0.0,,
+Standard Class,Garden,3,0,,0.0,,
+Standard Class,Garden,4-5,0,,0.0,,
+Standard Class,Girls' Apparel,1,4,-73.91,-295.66,0.08,31.75
+Standard Class,Girls' Apparel,2,2,-60.1,-120.21,0.2,-9.0
+Standard Class,Girls' Apparel,3,1,-44.11,-44.11,0.09,-109.0
+Standard Class,Girls' Apparel,4-5,0,,0.0,,
+Standard Class,Golf Apparel,1,1,-34.5,-34.5,0.02,98.0
+Standard Class,Golf Apparel,2,0,,0.0,,
+Standard Class,Golf Apparel,3,0,,0.0,,
+Standard Class,Golf Apparel,4-5,0,,0.0,,
+Standard Class,Golf Balls,1,3,-11.8,-35.39,0.1,62.33
+Standard Class,Golf Balls,2,1,-15.25,-15.25,0.1,147.0
+Standard Class,Golf Balls,3,7,-51.96,-363.75,0.08,28.43
+Standard Class,Golf Balls,4-5,1,-92.96,-92.96,0.13,30.0
+Standard Class,Golf Gloves,1,10,-34.76,-347.63,0.11,19.6
+Standard Class,Golf Gloves,2,3,-58.5,-175.51,0.13,65.0
+Standard Class,Golf Gloves,3,3,-28.95,-86.85,0.14,-1.0
+Standard Class,Golf Gloves,4-5,1,-14.34,-14.34,0.05,79.0
+Standard Class,Golf Shoes,1,3,-64.63,-193.9,0.1,-20.33
+Standard Class,Golf Shoes,2,3,-17.24,-51.73,0.14,109.33
+Standard Class,Golf Shoes,3,0,,0.0,,
+Standard Class,Golf Shoes,4-5,0,,0.0,,
+Standard Class,Health and Beauty,1,0,,0.0,,
+Standard Class,Health and Beauty,2,0,,0.0,,
+Standard Class,Health and Beauty,3,0,,0.0,,
+Standard Class,Health and Beauty,4-5,0,,0.0,,
+Standard Class,Hockey,1,5,-28.57,-142.85,0.11,-32.2
+Standard Class,Hockey,2,1,-9.7,-9.7,0.02,-3.0
+Standard Class,Hockey,3,1,-66.1,-66.1,0.12,169.0
+Standard Class,Hockey,4-5,0,,0.0,,
+Standard Class,Hunting & Shooting,1,3,-24.4,-73.21,0.1,26.67
+Standard Class,Hunting & Shooting,2,0,,0.0,,
+Standard Class,Hunting & Shooting,3,0,,0.0,,
+Standard Class,Hunting & Shooting,4-5,1,-258.72,-258.72,0.13,144.0
+Standard Class,Indoor/Outdoor Games,1,80,-81.28,-6502.55,0.1,15.69
+Standard Class,Indoor/Outdoor Games,2,22,-80.56,-1772.22,0.11,24.86
+Standard Class,Indoor/Outdoor Games,3,38,-74.0,-2812.02,0.11,20.87
+Standard Class,Indoor/Outdoor Games,4-5,33,-137.7,-4544.03,0.13,8.15
+Standard Class,Kids' Golf Clubs,1,1,-57.59,-57.59,0.01,-347.0
+Standard Class,Kids' Golf Clubs,2,0,,0.0,,
+Standard Class,Kids' Golf Clubs,3,0,,0.0,,
+Standard Class,Kids' Golf Clubs,4-5,0,,0.0,,
+Standard Class,Lacrosse,1,2,-18.13,-36.26,0.06,40.5
+Standard Class,Lacrosse,2,0,,0.0,,
+Standard Class,Lacrosse,3,1,-30.55,-30.55,0.0,-33.0
+Standard Class,Lacrosse,4-5,1,-37.59,-37.59,0.01,116.0
+Standard Class,Men's Clothing,1,5,-108.12,-540.6,0.08,2.0
+Standard Class,Men's Clothing,2,0,,0.0,,
+Standard Class,Men's Clothing,3,0,,0.0,,
+Standard Class,Men's Clothing,4-5,0,,0.0,,
+Standard Class,Men's Footwear,1,217,-80.71,-17514.64,0.11,8.44
+Standard Class,Men's Footwear,2,0,,0.0,,
+Standard Class,Men's Footwear,3,0,,0.0,,
+Standard Class,Men's Footwear,4-5,0,,0.0,,
+Standard Class,Men's Golf Clubs,1,1,-120.58,-120.58,0.17,43.0
+Standard Class,Men's Golf Clubs,2,0,,0.0,,
+Standard Class,Men's Golf Clubs,3,0,,0.0,,
+Standard Class,Men's Golf Clubs,4-5,0,,0.0,,
+Standard Class,Music,1,7,-588.79,-4121.53,0.08,176.86
+Standard Class,Music,2,1,-13.77,-13.77,0.06,91.0
+Standard Class,Music,3,0,,0.0,,
+Standard Class,Music,4-5,0,,0.0,,
+Standard Class,Pet Supplies,1,3,-45.43,-136.28,0.09,-41.33
+Standard Class,Pet Supplies,2,0,,0.0,,
+Standard Class,Pet Supplies,3,0,,0.0,,
+Standard Class,Pet Supplies,4-5,0,,0.0,,
+Standard Class,Shop By Sport,1,39,-40.08,-1563.31,0.1,10.0
+Standard Class,Shop By Sport,2,18,-74.0,-1332.02,0.1,5.06
+Standard Class,Shop By Sport,3,24,-107.74,-2585.7,0.11,50.67
+Standard Class,Shop By Sport,4-5,34,-128.88,-4382.08,0.1,45.56
+Standard Class,Soccer,1,1,-11.22,-11.22,0.03,-48.0
+Standard Class,Soccer,2,1,-28.15,-28.15,0.16,4.0
+Standard Class,Soccer,3,1,-12.36,-12.36,0.16,177.0
+Standard Class,Soccer,4-5,1,-1.18,-1.18,0.16,35.0
+Standard Class,Sporting Goods,1,3,-102.64,-307.91,0.1,75.67
+Standard Class,Sporting Goods,2,0,,0.0,,
+Standard Class,Sporting Goods,3,0,,0.0,,
+Standard Class,Sporting Goods,4-5,0,,0.0,,
+Standard Class,Strength Training,1,0,,0.0,,
+Standard Class,Strength Training,2,0,,0.0,,
+Standard Class,Strength Training,3,0,,0.0,,
+Standard Class,Strength Training,4-5,0,,0.0,,
+Standard Class,Tennis & Racquet,1,0,,0.0,,
+Standard Class,Tennis & Racquet,2,0,,0.0,,
+Standard Class,Tennis & Racquet,3,1,-124.2,-124.2,0.12,108.0
+Standard Class,Tennis & Racquet,4-5,0,,0.0,,
+Standard Class,Toys,1,3,-8.07,-24.21,0.09,49.33
+Standard Class,Toys,2,0,,0.0,,
+Standard Class,Toys,3,0,,0.0,,
+Standard Class,Toys,4-5,0,,0.0,,
+Standard Class,Trade-In,1,3,-21.49,-64.46,0.12,8.67
+Standard Class,Trade-In,2,1,-142.08,-142.08,0.06,74.0
+Standard Class,Trade-In,3,1,-4.28,-4.28,0.09,127.0
+Standard Class,Trade-In,4-5,1,-23.13,-23.13,0.17,14.0
+Standard Class,Video Games,1,7,-15.77,-110.37,0.12,27.71
+Standard Class,Video Games,2,0,,0.0,,
+Standard Class,Video Games,3,0,,0.0,,
+Standard Class,Video Games,4-5,0,,0.0,,
+Standard Class,Water Sports,1,133,-106.54,-14169.95,0.11,9.82
+Standard Class,Water Sports,2,0,,0.0,,
+Standard Class,Water Sports,3,0,,0.0,,
+Standard Class,Water Sports,4-5,0,,0.0,,
+Standard Class,Women's Apparel,1,82,-53.47,-4384.34,0.1,32.13
+Standard Class,Women's Apparel,2,37,-76.54,-2831.86,0.13,21.16
+Standard Class,Women's Apparel,3,40,-80.37,-3214.65,0.1,-9.22
+Standard Class,Women's Apparel,4-5,45,-102.59,-4616.53,0.08,-8.36
+Standard Class,Women's Clothing,1,3,-110.43,-331.3,0.04,8.33
+Standard Class,Women's Clothing,2,0,,0.0,,
+Standard Class,Women's Clothing,3,0,,0.0,,
+Standard Class,Women's Clothing,4-5,0,,0.0,,
