@@ -50,4 +50,4 @@ Analyze data in depth and provide concrete strategies to increase revenue in the
 ![Shipping x Quantity](results/fig5.png)
 ![Strategies Impact](results/fig6.png)
 ![Dashboard](results/Supply_Chain_Profit_Loss_Dashboard.jpg)
-**Interactive Dashboard**: [Supply Chain Profit Loss Dashboard](Supply_Chain_Profit_Loss_Dashboard.pdf)
+**Interactive Dashboard**: [Supply Chain Profit Loss Dashboard](https://lookerstudio.google.com/reporting/5642256d-1e42-4950-b2a4-b27dc2b866f2)
