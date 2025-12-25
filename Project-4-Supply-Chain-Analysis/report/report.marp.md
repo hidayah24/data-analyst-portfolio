@@ -1,10 +1,9 @@
 ---
 marp: true
-theme: gaia
+theme: default
 paginate: true
 header: "Supply Chain Analysis"
 footer: "Taufik Hidayah"
-backgroundColor: "#f8f9fa"
 ---
 
 # Analisis Kerugian Profit Rantai Pasok
@@ -13,7 +12,7 @@ backgroundColor: "#f8f9fa"
 **Nama:** Taufik Hidayah  
 **Tanggal:** 24-12-2025  
 
-![bg right:40%](https://img.icons8.com/color/96/000000/truck.png)
+![bg right:40% w:500px](https://img.icons8.com/color/96/000000/truck.png)
 
 ---
 
@@ -27,7 +26,7 @@ backgroundColor: "#f8f9fa"
 11. Diskusi  
 12. Kesimpulan  
 
-![w:300px](https://img.icons8.com/color/96/000000/presentation.png)
+![bg right w:300px](https://img.icons8.com/color/96/000000/presentation.png)
 
 ---
 
@@ -40,11 +39,7 @@ backgroundColor: "#f8f9fa"
 
 **Rekomendasi #1:** Larang Same Day qty>3 → **simpan $9.7k**.  
 
-```mermaid
-pie title "Rincian Kerugian"
-    "Pengiriman Tail" : 80
-    "Kategori" : 20
-```
+![w:300px](Rincian_Kerugian.png)
 
 ---
 
@@ -53,11 +48,9 @@ pie title "Rincian Kerugian"
 - Naikkan revenue Q via 3-5 strategi.  
 - Identifikasi driver, optimasi harga, segmentasi.  
 
-**Dataset:** 15.5k baris, 41 kolom (profit, pengiriman, market).  
+**Dataset:** 15.5k baris, 41 kolom.  
 
 **Pertanyaan:** Mengapa profit negatif?  
-
-![w:500px](https://img.icons8.com/color/96/000000/data-analysis.png)
 
 ---
 
@@ -69,13 +62,7 @@ pie title "Rincian Kerugian"
 4. Visual: Boxplot/Scatter (Seaborn).  
 5. Simulasi: Pindah pengiriman → estimasi hemat.  
 
-```mermaid
-graph LR
-    A[EDA Describe] --> B[Bins & Filter Loss]
-    B --> C[Groupby Pivot]
-    C --> D[Visual Insight]
-    D --> E[Strategi]
-```
+![w:900px](Metodologi.png)
 
 ---
 
@@ -99,11 +86,7 @@ graph LR
 - Same Day qty4-5: -$227 rata.  
 - Sport urgent → jebakan express.  
 
-```mermaid
-graph TB
-    A["Women's Apparel<br/>-227"] --> B["Shop By Sport<br/>-134"]
-    C["Cardio<br/>-303"] --> B
-```
+![w:450px](Hotspot.png)
 
 ---
 
@@ -146,11 +129,7 @@ graph TB
 - Same Day: -$26k (8% bagian).  
 - Fix Tail → **+$9.7k (+3%)**.  
 
-```mermaid
-pie title Total Kerugian -$326k
-    "Same Day Tail" : 30
-    "Lainnya" : 70
-```
+![w:400px](Total_Kerugian.png)
 
 *(Bar chart before/after)*
 
@@ -171,9 +150,7 @@ pie title Total Kerugian -$326k
 **Kelebihan:** Data-driven, menang cepat.  
 **Risiko:**  
 - Delay negatif → bersihkan data.  
-- Resistensi vendor.  
-
-**Mitigasi:** Pilot 1 bulan.  
+- Resistensi vendor.    
 
 *(Tabel risk matrix)*
 
@@ -187,6 +164,4 @@ pie title Total Kerugian -$326k
 2. Dashboard monitor.  
 3. Review Q1.  
 
-**Terima Kasih! Tanya Jawab**  
-
-![w:200px](https://img.icons8.com/color/96/000000/success.png)
+**Terima Kasih!**  
