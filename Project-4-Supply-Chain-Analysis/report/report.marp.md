@@ -56,11 +56,10 @@ footer: "Taufik Hidayah"
 
 # Metodologi
 **Langkah EDA:**  
-1. `describe()` → qty max=5, fokus tail.  
-2. Bins: Qty [1,2,3,4-5].  
-3. Pivot/Heatmap: Profit by pengiriman/kategori/market.  
-4. Visual: Boxplot/Scatter (Seaborn).  
-5. Simulasi: Pindah pengiriman → estimasi hemat.  
+1. Data Cleaning.  
+2. Explolatory Data Analysis (EDA).  
+3. Root Cause Analysis. 
+4. Visualizing and Reporting  
 
 ![w:900px](Metodologi.png)
 
@@ -76,14 +75,14 @@ footer: "Taufik Hidayah"
 
 **Alasan:** Biaya express tinggi di bundle.  
 
-*(Screenshot heatmap pengiriman)*
+![bg right w:700px](fig1.png)
 
 ---
 
 # Temuan 2: Hotspot Kategori
 **Sport/Apparel 20%+ Kerugian (Women's Apparel terburuk)**  
 
-- Same Day qty4-5: -$227 rata.  
+- Same Day qty 4-5: -$227 rata.  
 - Sport urgent → jebakan express.  
 
 ![w:450px](Hotspot.png)
@@ -98,9 +97,9 @@ footer: "Taufik Hidayah"
 | USCA | -4,992 |
 | LATAM | -3,736 |
 
-**Alasan:** Jarak + premium.  
+**Alasan:** Jarak + premium.
 
-*(Screenshot heatmap geo)*
+![bg right w:750](fig2.png)
 
 ---
 
@@ -108,10 +107,10 @@ footer: "Taufik Hidayah"
 **Same Day: -7 hari rata (anomali!)**  
 **Standard: 15 hari lambat.**  
 
-- Outlier: -1400 hari qty4-5.  
+- Outlier: -1400 hari qty 4-5.  
 **Alasan:** Error data/penalti ops.  
 
-*(Screenshot scatter delay)*
+![w:700](scatter_delay.png)
 
 ---
 
@@ -120,7 +119,7 @@ footer: "Taufik Hidayah"
 
 **Alasan:** Biaya pengiriman tetap utama.  
 
-*(Screenshot boxplot diskon)*
+![w:500](dsc_rate.png)
 
 ---
 
@@ -131,7 +130,7 @@ footer: "Taufik Hidayah"
 
 ![w:400px](Total_Kerugian.png)
 
-*(Bar chart before/after)*
+![bg right w:600](bar_total_Kerugian.png)
 
 ---
 
@@ -142,8 +141,6 @@ footer: "Taufik Hidayah"
 4. **Batas bundle qty express** → Stabil.  
 5. **SLA delay <7 hari** → +6%.  
 
-**Timeline:** Minggu 1 implementasi.
-
 ---
 
 # Diskusi & Risiko
@@ -152,16 +149,23 @@ footer: "Taufik Hidayah"
 - Delay negatif → bersihkan data.  
 - Resistensi vendor.    
 
-*(Tabel risk matrix)*
+---
+
+# Dashboard
+![w:700](Supply_Chain_Profit_Loss_Dashboard.jpg)
 
 ---
 
-# Kesimpulan & Langkah Selanjutnya
-**Inti:** **Optimasi pengiriman tail = kemenangan cepat +15% revenue!**  
+# Kesimpulan
+**Inti:** **Identifikasi kerugian $326k & strategi +15% revenue via shipping optimization.**  
 
-**Selanjutnya:**  
-1. Update kebijakan.  
-2. Dashboard monitor.  
-3. Review Q1.  
+**Achievements:**  
+1. Temukan root cause (Same Day tail qty4-5).  
+2. Simulasi save $9.7k+ dari data real.  
+3. 5 strategi actionable siap implementasi.  
+
+**Learnings/Skills:**  
+- EDA advance (Pandas, visual insights).  
+- Business impact dari data supply chain.  
 
 **Terima Kasih!**  
