@@ -16,9 +16,13 @@ Welcome to my Data Analysis Portfolio! This repository showcases various data an
    - Tools: Python (Pandas, Matplotlib, Seaborn, Numpy, Scipy, Sckit Posthocs, Kruskal, Multicomp)
    - Description: How to increase profitability by optimizing ticket pricing strategies.
 
-4. **[Employee Attrition Risk Analysis](./Project-4-Employee-Attrition-Risk-Analysis/)**  
+4. **[Supply Chain Analysis](./Project-4-Supply-Chain-Analysis/)**  
+   - Tools: Python (Pandas, Matplotlib, Seaborn, Numpy, Math)
+   - Description: Analyze data in depth and provide concrete strategies to increase revenue in the coming quarter.
+
+5. **[Superstore Campaign Optimizer](./Project-5-Superstore-Campaign-Optimizer/)**  
    - Tools: ...
-   - Description: ....
+   - Description: ...
 
 ## 🛠️ Tools and Technologies
 - **Programming Languages**: Python, SQL
