@@ -1,4 +1,4 @@
-# Superstore Campaign Optimizer
+# Superstore Campaign Optimizer (OnGoing)
 
 ## Project Description
 Our last marketing campaign only achieved a response rate below 15% (based on the Response column), which means that most customers did not accept or respond to the offer. This project analyzes a comprehensive customer dataset from a superstore to develop data-driven strategies for optimizing marketing campaigns.
