@@ -20,8 +20,8 @@ Welcome to my Data Analysis Portfolio! This repository showcases various data an
    - Tools: Python (Pandas, Matplotlib, Seaborn, Numpy, Math)
    - Description: Analyze data in depth and provide concrete strategies to increase revenue in the coming quarter.
 
-5. **[Superstore Campaign Optimizer](./Project-5-Superstore-Campaign-Optimizer/)**  
-   - Tools: ...
+5. **[Sales Performance Analysis](./Project-5-AdventureWorks-Sales-Performance-Analysis/)**  
+   - Tools: SQL, Microsoft Excel, Jupyter Notebook
    - Description: ...
 
 ## 🛠️ Tools and Technologies
