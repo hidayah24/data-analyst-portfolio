@@ -114,19 +114,24 @@ COPY (SELECT ...) TO 'datasets/outputs/prof_dec/dec_by_territory.csv' (FORMAT CS
 
 5 grafik utama di sheet `Viz_Dashboard`:
 
-### 4.1. Volume vs Profit YoY (Combo Chart)
-- Volume bar hijau naik, profit line merah turun → **Anomali jelas**
+### 4.1. Volume vs Profit YoY
+![Volue vs Profit YoY](images/01_volume_vs_profit_yoy.png)
+- Volume bar hijau naik, profit line turun → **Anomali jelas**
 
-### 4.2. Profit Delta per Kategori (Horizontal Bar)
+### 4.2. Profit Delta per Kategori
+![Profit Delta per Kategori](images/01_profit_delta_per_kategori.png)
 - Bikes bar merah ke kiri (-Rp169K), Clothing/Apparel hijau ke kanan
 
-### 4.3. Net Sales per Wilayah 2022 (Column)
+### 4.3. Net Sales per Wilayah 2022
+![Net Sales per Wilayah 2022](images/01_net_sales.png)
 - Pacific bar merah pendek, EU/NA tinggi → **Wilayah krisis**
 
-### 4.4. Returns Heatmap (Table + Conditional Color)
+### 4.4. Returns Heatmap
+![Returns Heatmap](images/01_returns_heatmap.png)
 - Pacific 253/unit → merah terang
 
-### 4.5. Margin Trend (Line)
+### 4.5. Margin Trend
+![Margin Trend](images/01_margin_trend.png)
 - Margin tipis turun (42,55% → 42,34%)
 
 </details>
