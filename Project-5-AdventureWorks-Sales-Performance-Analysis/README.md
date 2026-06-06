@@ -147,9 +147,9 @@ COPY (SELECT ...) TO 'datasets/outputs/prof_dec/dec_by_territory.csv' (FORMAT CS
 ### 1.5.1. Insight Kunci
 | Dimensi | Driver | Dampak |
 |---|--------|--------|
-| 🥇 | **Bikes** – margin erosion | -Rp169K (~60% decline) |
-| 🥇 | **Pacific** – returns tinggi | net_sales Rp34K, returns 253/unit |
-| 🟢 | Clothing positif | +Rp23K mitigator |
+| 🥇 | **Bikes** – margin erosion | -$169K (~60% decline) |
+| 🥇 | **Pacific** – returns tinggi | net_sales $34K, returns 253/unit |
+| 🟢 | Clothing positif | +$23K mitigator |
 | 🟡 | Margin overall | Turun tipis → bukan driver utama |
 
 ### 1.5.2. Root Cause Summary
@@ -313,10 +313,10 @@ ORDER BY bp.ModelName, bp.ProductColor, ys.year;
 **Baseline 2022:**
 | Item | Value |
 |------|-------|
-| Total Profit 2022 | Rp 3,611,731 |
-| Bikes Profit 2022 | Rp 3,477,544 |
-| Non-Bikes Profit | Rp 134,187 |
-| Pacific Returns Value | Rp 277,297 |
+| Total Profit 2022 | $3,611,731 |
+| Bikes Profit 2022 | $3,477,544 |
+| Non-Bikes Profit | $134,187 |
+| Pacific Returns Value | $277,297 |
 
 ---
 
